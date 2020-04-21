@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Java-test
+Exec=JavaBin/bin/java main
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
